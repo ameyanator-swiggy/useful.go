@@ -1,3 +1,3 @@
-module DataStructures
+module useful.go
 
 go 1.19
